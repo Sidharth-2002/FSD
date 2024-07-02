@@ -1,0 +1,36 @@
+ul {
+    font-size: larger;
+    color: red;
+    text-align: center;
+}
+
+#a1 {
+    text-decoration: none;
+    color: green;
+}
+
+#p1 {
+    color: red;
+    font-style: italic;
+}
+
+#p2 {
+    color: blue;
+    font-weight: bold;
+}
+
+#p3 {
+    color: green;
+    text-decoration: line-through;
+}
+
+.list {
+    font-weight: bold;
+}
+
+.group {
+    background-color: aquamarine;
+    border: 1px solid red;
+    margin: 5% 10% 5% 10%;
+    padding: 10px 30px 10px 40px;
+}
